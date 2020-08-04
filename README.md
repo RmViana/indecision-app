@@ -4,8 +4,8 @@ The Indecision App is basically a list of options. It could be a list of restaur
 
 ## Runnnig
 
-    > Clone/ download this repository
-    > Make sure you have NodeJs installed on your machine
-    > Install the <code>live-server</code> package
-    > In your terminal, navigate to the root folder of this project
-    > Execute the <code>live-server public</code> command
+    1. Clone/ download this repository
+    2. Make sure you have NodeJs installed on your machine
+    3. Install the `live-server` package
+    4. In your terminal, navigate to the root folder of this project
+    5. Execute the `live-server public` command
